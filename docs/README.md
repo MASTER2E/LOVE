@@ -1,4 +1,5 @@
-<img width="2880" height="1620" alt="CompressionBootsPro_IMPORT(CAM)_07" src="https://github.com/user-attachments/assets/32adf448-db8e-4bd1-a04e-1c0a5e77f85b" />
+<img width="531" height="846" alt="CompressionBootsPro_IMPORT(CAM)_07" src="https://github.com/user-attachments/assets/1a5ccf72-6481-4e2f-8dcb-7791d9e955fd" />
+
 
 # 🐀 All About Rats
 
