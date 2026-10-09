@@ -18,4 +18,4 @@ an animal most people run from.
 
 $$\color{red}\textsf{Goodbye, and thanks for all the cheese.}$$
 
-Library/Pics/CompressionBootsPro_CloseUps_v1_01.png
+[Boots](Library/Pics/CompressionBootsPro_CloseUps_v1_01.png)
