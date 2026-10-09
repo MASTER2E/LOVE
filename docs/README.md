@@ -1,3 +1,5 @@
+<img width="2880" height="1620" alt="CompressionBootsPro_IMPORT(CAM)_07" src="https://github.com/user-attachments/assets/32adf448-db8e-4bd1-a04e-1c0a5e77f85b" />
+
 # 🐀 All About Rats
 
 Rats are smart, social rodents that get a worse reputation than they deserve.
@@ -18,4 +20,4 @@ an animal most people run from.
 
 $$\color{red}\textsf{Goodbye, and thanks for all the cheese.}$$
 
-[Boots](Library/Pics/CompressionBootsPro_CloseUps_v1_01.png)
+
